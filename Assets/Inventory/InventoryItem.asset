@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a9ebc033c1ab59743bc7e01744b2f311, type: 3}
-  m_Name: ball
+  m_Name: InventoryItem
   m_EditorClassIdentifier: Assembly-CSharp::InventoryItem
-  itemName: ball
+  itemName: salut
   icon: {fileID: 0}
-  prefab: {fileID: 7307013594138156336, guid: 4508601c2f84c8349848d1d0a622c7a9, type: 3}
+  prefab: {fileID: 5733347794490835247, guid: 3fea4a9ec693d514baeb87ba7eebc8cd, type: 3}

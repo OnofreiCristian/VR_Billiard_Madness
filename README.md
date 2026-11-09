@@ -8,7 +8,7 @@ Lab 5 homework: https://docs.google.com/document/d/1uQzS9Wt30iJg7r-76bo3VyhrUe2A
 
 Lab 7 progress - Modeled walls, floor, ceiling for constructing a play area in a modular way; Also modeled a functional, better billiard table with holes that's functional and can be used to play the game.
 
-Implemented an inventory system and created a more fitting scene. To add an item, we create its prefab and add it to a new InventoryItem asset. All that's left to do is to add it to the item list in InventoryUI, either dynamically or through the inspector (for starting items). 
+Implemented an inventory system. To add an item, we create its prefab and add it to a new InventoryItem asset. All that's left to do is to add it to the item list in InventoryUI, either dynamically or through the inspector (for starting items). 
 
 InventoryItem - stores the item's name, icon and prefab
 InventoryManager - spawns the clicked item at the SpawnPoint

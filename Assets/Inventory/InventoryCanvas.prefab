@@ -72,8 +72,8 @@ GameObject:
   - component: {fileID: 4641879222353192396}
   - component: {fileID: 8675868938730791604}
   - component: {fileID: 6355029168633317652}
-  - component: {fileID: 760467587751025562}
   - component: {fileID: 4302833629174523944}
+  - component: {fileID: 6846550217876843707}
   m_Layer: 5
   m_Name: InventoryCanvas
   m_TagString: Untagged
@@ -90,7 +90,7 @@ RectTransform:
   m_GameObject: {fileID: 8203056451075610854}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -3.28}
-  m_LocalScale: {x: 0.015, y: 0.015, z: 0.015}
+  m_LocalScale: {x: 0.001, y: 0.001, z: 0.001}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 2636729487199992813}
@@ -167,23 +167,6 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RaycastTriggerInteraction: 1
---- !u!114 &760467587751025562
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8203056451075610854}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.GraphicRaycaster
-  m_IgnoreReversedGraphics: 1
-  m_BlockingObjects: 0
-  m_BlockingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
 --- !u!114 &4302833629174523944
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -199,5 +182,30 @@ MonoBehaviour:
   inventoryManager: {fileID: 0}
   itemGrid: {fileID: 2636729487199992813}
   itemButtonPrefab: {fileID: 3955259146531031812, guid: 6d538b9be6758bb4e8f8b9c718db5ed0, type: 3}
-  items:
-  - {fileID: 11400000, guid: c6e461731ad22aa4f918848a3ba1c3a5, type: 2}
+--- !u!114 &6846550217876843707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8203056451075610854}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a2d7d89889b4d94fa1f8d6fe49788e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.XR.Interaction.Toolkit::UnityEngine.XR.Interaction.Toolkit.UI.LazyFollow
+  m_Target: {fileID: 0}
+  m_TargetOffset: {x: 0.15, y: -0.1, z: 0.7}
+  m_FollowInLocalSpace: 0
+  m_ApplyTargetInLocalSpace: 0
+  m_MovementSpeed: 6
+  m_MovementSpeedVariancePercentage: 0.25
+  m_SnapOnEnable: 1
+  m_PositionFollowMode: 1
+  m_MinDistanceAllowed: 0.01
+  m_MaxDistanceAllowed: 0.3
+  m_TimeUntilThresholdReachesMaxDistance: 3
+  m_RotationFollowMode: 2
+  m_MinAngleAllowed: 0.1
+  m_MaxAngleAllowed: 5
+  m_TimeUntilThresholdReachesMaxAngle: 3

@@ -18,3 +18,8 @@ InventoryManager - spawns the clicked item at the SpawnPoint
 InventoryUI - creates buttons dynamically and connects them to the Manager
 ItemButton - button template
 
+Lab 8/9 Progress - 
+Modeled and added billiard balls that are to-scale with real ones;
+Added hands as controllers with grip animations;
+Attached the Inventory to the player's left hand - you can press X on the left controller or M on the keyboard to open the inventory and spawn it;
+Added pocket logic that detects when a ball goes in, despawns it and gives score;

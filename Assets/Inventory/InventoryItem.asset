@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9ebc033c1ab59743bc7e01744b2f311, type: 3}
   m_Name: InventoryItem
   m_EditorClassIdentifier: Assembly-CSharp::InventoryItem
-  itemName: salut
-  icon: {fileID: 0}
-  prefab: {fileID: 5733347794490835247, guid: 3fea4a9ec693d514baeb87ba7eebc8cd, type: 3}
+  itemName: 
+  icon: {fileID: 21300000, guid: 2f8349570a152884fb6cf7ebdc8c18b3, type: 3}
+  prefab: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}

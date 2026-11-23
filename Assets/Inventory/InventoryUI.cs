@@ -8,11 +8,15 @@ public class InventoryUI : MonoBehaviour
     [SerializeField] private InventoryManager inventoryManager;
     [SerializeField] private Transform itemGrid;
     [SerializeField] private Button itemButtonPrefab;
-    [SerializeField] private List<InventoryItem> items;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+
+    public void RefreshUI(List<InventoryItem> itemsToDisplay)
     {
-        foreach (InventoryItem item in items)
+        foreach (Transform child in itemGrid)
+        {
+            Destroy(child.gameObject);
+        }
+
+        foreach (InventoryItem item in itemsToDisplay)
         {
             Button button = Instantiate(itemButtonPrefab, itemGrid);
 
@@ -27,11 +31,5 @@ public class InventoryUI : MonoBehaviour
                 inventoryManager.SpawnItem(item);
             });
         }
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

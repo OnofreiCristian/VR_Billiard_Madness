@@ -296,6 +296,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Balls (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -363,6 +367,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
       propertyPath: m_Name
       value: Balls (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -576,6 +584,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
       propertyPath: m_Name
       value: Balls (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -852,6 +864,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
       propertyPath: m_Name
       value: Balls (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1648,6 +1664,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Balls (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
+      objectReference: {fileID: 0}
     - target: {fileID: 8632055958874330854, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.024999976
@@ -2180,6 +2200,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Balls (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2412,6 +2436,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
       propertyPath: m_Name
       value: Balls (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3590,6 +3618,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Balls (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3823,6 +3855,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
       propertyPath: m_Name
       value: Balls (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4238,6 +4274,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Balls
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4471,6 +4511,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
       propertyPath: m_Name
       value: Balls (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4849,6 +4893,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Balls (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5111,6 +5159,17 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1697272943 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4302833629174523944, guid: 88b7befa20f13c74ba32b11badd55a29, type: 3}
+  m_PrefabInstance: {fileID: 424463132}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1697272934}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20bc0993575aa2245bde1ae2ebdb45eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InventoryUI
 --- !u!1001 &1728024515
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5123,6 +5182,18 @@ PrefabInstance:
       propertyPath: spawnPoint
       value: 
       objectReference: {fileID: 2011359570}
+    - target: {fileID: 3310684519610989091, guid: ab76ea4819bffb244a6ff2627a828b49, type: 3}
+      propertyPath: inventoryUI
+      value: 
+      objectReference: {fileID: 1697272943}
+    - target: {fileID: 3310684519610989091, guid: ab76ea4819bffb244a6ff2627a828b49, type: 3}
+      propertyPath: startingItems.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3310684519610989091, guid: ab76ea4819bffb244a6ff2627a828b49, type: 3}
+      propertyPath: 'startingItems.Array.data[0]'
+      value: 
+      objectReference: {fileID: 11400000, guid: 44510abcf04e0234c8a6493cb3b1e2c7, type: 2}
     - target: {fileID: 5375457033479357354, guid: ab76ea4819bffb244a6ff2627a828b49, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.5507699
@@ -5197,15 +5268,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7762388504502385572, guid: ebd5d7315406e994c950883d86c51a96, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.049
       objectReference: {fileID: 0}
     - target: {fileID: 7762388504502385572, guid: ebd5d7315406e994c950883d86c51a96, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.3
+      value: -0.096
       objectReference: {fileID: 0}
     - target: {fileID: 7762388504502385572, guid: ebd5d7315406e994c950883d86c51a96, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1
+      value: 0.582
       objectReference: {fileID: 0}
     - target: {fileID: 7762388504502385572, guid: ebd5d7315406e994c950883d86c51a96, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5305,6 +5376,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1883230248363655243, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+      propertyPath: m_UIPressInput.m_InputSourceMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1883230248363655243, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+      propertyPath: m_UIPressInput.m_InputActionPerformed.m_SingletonActionBindings.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1883230248363655243, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+      propertyPath: m_UIPressInput.m_InputActionPerformed.m_SingletonActionBindings.Array.data[0].m_Id
+      value: c1b1a880-29d1-49d4-bb08-5623dba6fb00
+      objectReference: {fileID: 0}
+    - target: {fileID: 1883230248363655243, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+      propertyPath: m_UIPressInput.m_InputActionPerformed.m_SingletonActionBindings.Array.data[0].m_Path
+      value: <Mouse>/leftButton
+      objectReference: {fileID: 0}
+    - target: {fileID: 1883230248363655243, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+      propertyPath: m_UIPressInput.m_InputActionPerformed.m_SingletonActionBindings.Array.data[0].m_Action
+      value: UI Press
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -5379,6 +5470,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
       propertyPath: m_Name
       value: Balls (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5821,6 +5916,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Balls (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6002,6 +6101,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Balls (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0e87f38ad112e34a9f50640ef583203, type: 3}
+      propertyPath: m_TagString
+      value: PoolBall
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6128,6 +6231,71 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a07a0b14bbf26514792f6aef387f01df, type: 3}
+--- !u!1001 &4183332391152124555
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8459693879869225877, guid: 7597466a60b089e40aedff8ba945c9e8, type: 3}
+      propertyPath: stowButtonAction.m_Action.m_Name
+      value: Stow Button
+      objectReference: {fileID: 0}
+    - target: {fileID: 816196952805079037, guid: 7597466a60b089e40aedff8ba945c9e8, type: 3}
+      propertyPath: fuseTime
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5916899749060627051, guid: 7597466a60b089e40aedff8ba945c9e8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.806
+      objectReference: {fileID: 0}
+    - target: {fileID: 5916899749060627051, guid: 7597466a60b089e40aedff8ba945c9e8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 5916899749060627051, guid: 7597466a60b089e40aedff8ba945c9e8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.413
+      objectReference: {fileID: 0}
+    - target: {fileID: 5916899749060627051, guid: 7597466a60b089e40aedff8ba945c9e8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5916899749060627051, guid: 7597466a60b089e40aedff8ba945c9e8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5916899749060627051, guid: 7597466a60b089e40aedff8ba945c9e8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5916899749060627051, guid: 7597466a60b089e40aedff8ba945c9e8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5916899749060627051, guid: 7597466a60b089e40aedff8ba945c9e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5916899749060627051, guid: 7597466a60b089e40aedff8ba945c9e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5916899749060627051, guid: 7597466a60b089e40aedff8ba945c9e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6060271001939047039, guid: 7597466a60b089e40aedff8ba945c9e8, type: 3}
+      propertyPath: m_Name
+      value: Bomb
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7597466a60b089e40aedff8ba945c9e8, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -6144,3 +6312,4 @@ SceneRoots:
   - {fileID: 239903293}
   - {fileID: 444532821796231031}
   - {fileID: 1728024515}
+  - {fileID: 4183332391152124555}

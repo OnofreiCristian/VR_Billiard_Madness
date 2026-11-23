@@ -4,7 +4,6 @@ using UnityEngine.XR.Interaction.Toolkit.Interactables;
 
 public class WorldItem : MonoBehaviour
 {
-    [Header("Stow Input")]
     [SerializeField] private InputActionProperty stowButtonAction;
 
     private InventoryItem itemData;
@@ -19,7 +18,6 @@ public class WorldItem : MonoBehaviour
 
     private void Awake()
     {
-        // Checks this object AND parents in case WorldItem is on a child mesh
         grabInteractable = GetComponentInParent<XRGrabInteractable>();
     }
 
